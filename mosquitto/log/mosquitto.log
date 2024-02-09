@@ -1,0 +1,146 @@
+1707509104: mosquitto version 2.0.18 starting
+1707509104: Config loaded from /mosquitto/config/mosquitto.conf.
+1707509104: Opening ipv4 listen socket on port 1883.
+1707509104: Opening ipv6 listen socket on port 1883.
+1707509104: mosquitto version 2.0.18 running
+1707509109: New connection from 192.168.240.1:43036 on port 1883.
+1707509109: New connection from 192.168.240.1:43048 on port 1883.
+1707509109: New connection from 192.168.240.1:43054 on port 1883.
+1707509109: New connection from 192.168.240.1:43060 on port 1883.
+1707509110: New connection from 192.168.240.1:43072 on port 1883.
+1707509110: New client connected from 192.168.240.1:43072 as easymqtt-iPad (p2, c1, k60).
+1707509113: Client easymqtt-iPad closed its connection.
+1707509114: New connection from 192.168.240.1:43086 on port 1883.
+1707509114: New client connected from 192.168.240.1:43086 as easymqtt-iPad (p2, c1, k60).
+1707509115: Client easymqtt-iPad closed its connection.
+1707509133: New connection from 192.168.240.1:48154 on port 1883.
+1707509134: New client connected from 192.168.240.1:48154 as paho73127390244083 (p2, c1, k30).
+1707509199: Client <unknown> has exceeded timeout, disconnecting.
+1707509199: Client <unknown> has exceeded timeout, disconnecting.
+1707509199: Client <unknown> has exceeded timeout, disconnecting.
+1707509199: Client <unknown> has exceeded timeout, disconnecting.
+1707509328: New connection from 192.168.240.1:45660 on port 1883.
+1707509328: New client connected from 192.168.240.1:45660 as easymqtt-iPad (p2, c1, k60).
+1707509329: Client easymqtt-iPad closed its connection.
+1707509420: New connection from 192.168.240.1:37522 on port 1883.
+1707509420: New client connected from 192.168.240.1:37522 as easymqtt-iPad (p2, c1, k60).
+1707509443: Client easymqtt-iPad closed its connection.
+1707509446: New connection from 192.168.240.1:54810 on port 1883.
+1707509446: New client connected from 192.168.240.1:54810 as easymqtt-iPad (p2, c1, k60).
+1707509542: Client easymqtt-iPad closed its connection.
+1707509549: New connection from 192.168.240.1:40760 on port 1883.
+1707509549: New client connected from 192.168.240.1:40760 as easymqtt-iPad (p2, c1, k60).
+1707509593: Client easymqtt-iPad closed its connection.
+1707509595: New connection from 192.168.240.1:43874 on port 1883.
+1707509596: New client connected from 192.168.240.1:43874 as easymqtt-iPad (p2, c1, k60).
+1707509602: Client easymqtt-iPad closed its connection.
+1707509615: New connection from 192.168.240.1:35828 on port 1883.
+1707509615: New client connected from 192.168.240.1:35828 as easymqtt-iPad (p2, c1, k60).
+1707509626: Client easymqtt-iPad closed its connection.
+1707509646: New connection from 192.168.240.1:50224 on port 1883.
+1707509646: New client connected from 192.168.240.1:50224 as easymqtt-iPad (p2, c1, k60).
+1707509648: Client easymqtt-iPad closed its connection.
+1707509675: New connection from 192.168.240.1:47592 on port 1883.
+1707509675: New client connected from 192.168.240.1:47592 as easymqtt-iPad (p2, c1, k60).
+1707509680: Client easymqtt-iPad closed its connection.
+1707509682: New connection from 192.168.240.1:45586 on port 1883.
+1707509682: New client connected from 192.168.240.1:45586 as easymqtt-iPad (p2, c1, k60).
+1707509687: Client easymqtt-iPad closed its connection.
+1707509694: New connection from 192.168.240.1:45262 on port 1883.
+1707509694: New client connected from 192.168.240.1:45262 as easymqtt-iPad (p2, c1, k60).
+1707509697: Client easymqtt-iPad closed its connection.
+1707509807: New connection from 192.168.240.1:58250 on port 1883.
+1707509807: New client connected from 192.168.240.1:58250 as easymqtt-iPad (p2, c1, k60).
+1707509809: Client easymqtt-iPad closed its connection.
+1707509859: Client paho73127390244083 closed its connection.
+1707509860: New connection from 192.168.240.1:55428 on port 1883.
+1707509860: New client connected from 192.168.240.1:55428 as easymqtt-iPad (p2, c1, k60).
+1707509861: Client easymqtt-iPad closed its connection.
+1707509866: New connection from 192.168.240.1:41062 on port 1883.
+1707509866: New client connected from 192.168.240.1:41062 as paho73860185937541 (p2, c1, k30).
+1707509869: New connection from 192.168.240.1:41068 on port 1883.
+1707509869: New client connected from 192.168.240.1:41068 as easymqtt-iPad (p2, c1, k60).
+1707509884: Client easymqtt-iPad closed its connection.
+1707509892: New connection from 192.168.240.1:33248 on port 1883.
+1707509892: New client connected from 192.168.240.1:33248 as easymqtt-iPad (p2, c1, k60).
+1707509921: Client easymqtt-iPad closed its connection.
+1707509930: New connection from 192.168.240.1:34214 on port 1883.
+1707509930: New client connected from 192.168.240.1:34214 as easymqtt-iPad (p2, c1, k60).
+1707509932: Client easymqtt-iPad closed its connection.
+1707509944: New connection from 192.168.240.1:43316 on port 1883.
+1707509944: New client connected from 192.168.240.1:43316 as easymqtt-iPad (p2, c1, k60).
+1707509947: Client easymqtt-iPad closed its connection.
+1707509967: Client paho73860185937541 has exceeded timeout, disconnecting.
+1707510002: New connection from 192.168.240.1:47208 on port 1883.
+1707510003: New client connected from 192.168.240.1:47208 as paho73996921021875 (p2, c1, k30).
+1707510007: New connection from 192.168.240.1:56124 on port 1883.
+1707510007: New client connected from 192.168.240.1:56124 as easymqtt-iPad (p2, c1, k60).
+1707510014: Client easymqtt-iPad closed its connection.
+1707510021: New connection from 192.168.240.1:56534 on port 1883.
+1707510021: New client connected from 192.168.240.1:56534 as easymqtt-iPad (p2, c1, k60).
+1707510031: Client easymqtt-iPad closed its connection.
+1707510033: New connection from 192.168.240.1:58882 on port 1883.
+1707510033: New client connected from 192.168.240.1:58882 as easymqtt-iPad (p2, c1, k60).
+1707510035: Client easymqtt-iPad closed its connection.
+1707510038: New connection from 192.168.240.1:41998 on port 1883.
+1707510038: New client connected from 192.168.240.1:41998 as easymqtt-iPad (p2, c1, k60).
+1707510045: Client easymqtt-iPad closed its connection.
+1707510049: New connection from 192.168.240.1:57466 on port 1883.
+1707510049: New client connected from 192.168.240.1:57466 as easymqtt-iPad (p2, c1, k60).
+1707510101: Client easymqtt-iPad closed its connection.
+1707510103: New connection from 192.168.240.1:38576 on port 1883.
+1707510103: New client connected from 192.168.240.1:38576 as easymqtt-iPad (p2, c1, k60).
+1707510104: Client easymqtt-iPad closed its connection.
+1707510105: New connection from 192.168.240.1:38590 on port 1883.
+1707510105: New client connected from 192.168.240.1:38590 as easymqtt-iPad (p2, c1, k60).
+1707510117: Client easymqtt-iPad closed its connection.
+1707510131: New connection from 192.168.240.1:42484 on port 1883.
+1707510131: New client connected from 192.168.240.1:42484 as easymqtt-iPad (p2, c1, k60).
+1707510145: Client easymqtt-iPad closed its connection.
+1707510167: New connection from 192.168.240.1:34114 on port 1883.
+1707510167: New client connected from 192.168.240.1:34114 as easymqtt-iPad (p2, c1, k60).
+1707510232: Client easymqtt-iPad closed its connection.
+1707510253: New connection from 192.168.240.1:43112 on port 1883.
+1707510253: New client connected from 192.168.240.1:43112 as easymqtt-iPad (p2, c1, k60).
+1707510298: Client easymqtt-iPad closed its connection.
+1707510305: New connection from 192.168.240.1:60884 on port 1883.
+1707510305: New client connected from 192.168.240.1:60884 as easymqtt-iPad (p2, c1, k60).
+1707510306: Client paho73996921021875 closed its connection.
+1707510309: New connection from 192.168.240.1:60898 on port 1883.
+1707510309: New client connected from 192.168.240.1:60898 as paho74303266816375 (p2, c1, k30).
+1707510315: Client easymqtt-iPad closed its connection.
+1707510317: New connection from 192.168.240.1:46336 on port 1883.
+1707510317: New client connected from 192.168.240.1:46336 as easymqtt-iPad (p2, c1, k60).
+1707510339: Client easymqtt-iPad closed its connection.
+1707510342: New connection from 192.168.240.1:47780 on port 1883.
+1707510342: New client connected from 192.168.240.1:47780 as easymqtt-iPad (p2, c1, k60).
+1707510360: Client easymqtt-iPad closed its connection.
+1707510361: New connection from 192.168.240.1:37658 on port 1883.
+1707510361: New client connected from 192.168.240.1:37658 as easymqtt-iPad (p2, c1, k60).
+1707510412: Client easymqtt-iPad closed its connection.
+1707510416: New connection from 192.168.240.1:47664 on port 1883.
+1707510416: New client connected from 192.168.240.1:47664 as easymqtt-iPad (p2, c1, k60).
+1707510422: Client easymqtt-iPad closed its connection.
+1707510428: New connection from 192.168.240.1:56418 on port 1883.
+1707510428: New client connected from 192.168.240.1:56418 as easymqtt-iPad (p2, c1, k60).
+1707510436: Client easymqtt-iPad closed its connection.
+1707510441: New connection from 192.168.240.1:36294 on port 1883.
+1707510441: New client connected from 192.168.240.1:36294 as easymqtt-iPad (p2, c1, k60).
+1707510445: Client easymqtt-iPad closed its connection.
+1707510526: Client paho74303266816375 closed its connection.
+1707510528: New connection from 192.168.240.1:35444 on port 1883.
+1707510529: New client connected from 192.168.240.1:35444 as paho74523084132000 (p2, c1, k30).
+1707510531: New connection from 192.168.240.1:35452 on port 1883.
+1707510531: New client connected from 192.168.240.1:35452 as easymqtt-iPad (p2, c1, k60).
+1707510535: Client easymqtt-iPad closed its connection.
+1707510538: New connection from 192.168.240.1:51128 on port 1883.
+1707510538: New client connected from 192.168.240.1:51128 as easymqtt-iPad (p2, c1, k60).
+1707510556: Client easymqtt-iPad closed its connection.
+1707510688: Client paho74523084132000 closed its connection.
+1707510690: New connection from 192.168.240.1:55488 on port 1883.
+1707510690: New client connected from 192.168.240.1:55488 as paho74684223501500 (p2, c1, k30).
+1707510693: New connection from 192.168.240.1:55496 on port 1883.
+1707510693: New client connected from 192.168.240.1:55496 as easymqtt-iPad (p2, c1, k60).
+1707510700: Client easymqtt-iPad closed its connection.
+1707510727: New connection from 192.168.240.1:35434 on port 1883.
+1707510727: New client connected from 192.168.240.1:35434 as easymqtt-iPad (p2, c1, k60).
