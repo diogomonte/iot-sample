@@ -1,1 +1,1 @@
-mq
+mqtt.broker.host: ${MQTT_BROKER_HOST:localhost}
