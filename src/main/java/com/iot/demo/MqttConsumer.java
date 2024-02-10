@@ -18,7 +18,7 @@ public class MqttConsumer {
     public Flux<byte[]> receive() {
         Sinks.Many<byte[]> sink = Sinks.many().unicast().onBackpressureBuffer();
         try {
-            mqttClient.subscribe("topic/sample", (topic, message) -> sink.tryEmitNext(message.getPayload()));
+            mqttClient.subscribe("thing/+/event", (topic, message) -> sink.tryEmitNext(message.getPayload()));
         } catch (MqttException e) {
             e.printStackTrace();
         }
