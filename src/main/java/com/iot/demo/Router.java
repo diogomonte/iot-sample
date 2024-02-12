@@ -17,6 +17,6 @@ public class Router {
     public RouterFunction<ServerResponse> offerMim(MqttConsumer mqttConsumer){
         return route(GET("/live-data"), request -> ServerResponse.ok()
                 .contentType(MediaType.TEXT_EVENT_STREAM)
-                .body(BodyInserters.fromProducer(mqttConsumer.receive().map(String::new), String.class)));
+                .body(BodyInserters.fromProducer(mqttConsumer.receive().map(String::new).doOnNext(System.out::println), String.class)));
     }
 }
