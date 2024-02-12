@@ -60,6 +60,7 @@
 				<configuration>
 					<mainClass>com.iot.demo.DemoApplication</mainClass>
 					<layout>JAR</layout>
+					<finalName>iot</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
