@@ -7,10 +7,10 @@ COPY src ./src
 
 RUN mvn clean package -DskipTests
 
-FROM maven:3.8.5-openjdk-17-slim
+FROM openjdk:17
 
 WORKDIR /app
 
-COPY target/demo*.jar demo.jar
-
-CMD ["java", "-jar", "demo.jar"]
+COPY --from=build /app/target/iot.jar iot.jar
+EXPOSE 8080
+CMD ["java", "-jar", "iot.jar"]
