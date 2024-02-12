@@ -47,17 +47,13 @@ public class ThingMockService {
                     } catch (JsonProcessingException e) {
                         return Flux.error(new RuntimeException(e));
                     }
-                }).subscribe(
-                        result -> System.out.println("Message published successfully"),
-                        error -> System.err.println("Error occurred while publishing message: " + error),
-                        () -> System.out.println("Publishing completed")
-                );
+                }).subscribe();
     }
 
     private Mono<Void> publishMessage(String topic, byte[] message) {
         return Mono.create(sink -> {
             try {
-                iMqttClient.publish(topic, new MqttMessage(message));
+                iMqttClient.publish(topic, message, 0 , false);
                 sink.success();
             } catch (MqttException e) {
                 sink.error(e);
